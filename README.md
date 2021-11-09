@@ -5,7 +5,7 @@
      USAGE: php pegacct.php
 
 	 Tutorial
-	 Https://kang-asu.blogspot.co.id
+	 Https://kampusbit.com
 	 
 ## Changelog
 * 2018  Initial release
